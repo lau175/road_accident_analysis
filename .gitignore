@@ -1,0 +1,13 @@
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.gz
+*.pdf
+*.bbl
+*.blg
+*.xml
+*.bcf
+**/build/
+code/.ipynb_checkpoints/
+clean_data.csv

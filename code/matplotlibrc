@@ -1,0 +1,19 @@
+legend.frameon: False
+
+text.usetex: True # Set to `False` if no LaTeX compiler is available
+text.latex.preamble: "\usepackage{mathptmx}"
+font.family: "serif"
+font.size: 11
+
+axes.spines.left: True
+axes.spines.right: False
+axes.spines.top: False
+axes.spines.bottom: True
+
+savefig.dpi: 300
+savefig.format: svg
+savefig.bbox: tight
+savefig.pad_inches: 0.015
+
+figure.constrained_layout.use: True
+figure.autolayout: False
